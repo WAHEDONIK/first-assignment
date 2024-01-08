@@ -21,7 +21,7 @@ width: 1340px;
  
  .bg-text h3{font-family: 'Open Sans', sans-serif}
  
- .bg-text{color: #FFF;
+ .bg-text{  color: #FFF;
    
 
    text-align: center;
@@ -30,13 +30,29 @@ width: 1340px;
    font-style: normal;
    font-weight: 900;
    line-height: 95px;
-padding: 200px;}
+padding: 200px;
+   text-shadow:1px 1px 1px #919191,
+   1px 2px 1px #919191,
+   1px 3px 1px #919191,
+
+   
+   1px 30px 60px rgba(16,16,16,0.4);
+  
+   
+   
+}
+
 
 .lext{width: 383px;
+
 height: 107px;
 flex-shrink: 0;
 display: flex;
-padding: 100px 0 0 300px}
+padding: 100px 0 0 400px;
+text-shadow:1px 1px 1px #919191,
+   1px 2px 1px #919191,
+   1px 3px 1px #919191,
+}
 
  
 .two{color: #F00; flex-shrink: 0;
@@ -46,21 +62,84 @@ font-family: Inter;
 font-size: 88px;
 font-style: normal;
 font-weight: 700;
-line-height: normal;}
+line-height: normal;
+}
+
+.four{width: 383px;
+   height: 107px;
+   flex-shrink: 0;
+   display: flexbox;
+   padding: 70px 0 0 600px}
 
 .jook{color: #F00;
-padding: 100px 0 0 5px;
+
    text-align: center;
    font-family: Inter;
    font-size: 50px;
    font-style: normal;
    font-weight: 500;
    line-height: normal;}
-   .took{color: #070211;
 
-      text-align: center;
-      font-family: Inter;
-      font-size: 48px;
-      font-style: normal;
-      font-weight: 700;
-      line-height: normal;}
+
+
+
+
+
+
+   .took{width: 383px;
+      height: 107px;
+      flex-shrink: 0;
+      display: flexbox;
+         padding: 70px 0 0 600px;
+        
+
+         text-align: center;
+         font-family: Inter;
+         font-size: 50px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: normal;}
+      
+      
+      
+      
+
+
+
+
+
+
+.img{padding:50px 0px 0px 400px ;}
+
+
+.wow{ 
+   background-image: url(Vectorrr.png);
+   
+   
+   width: 1280px;
+height: 570px;
+flex-shrink: 0;
+
+}
+
+.hece{color: #FFF;
+
+   font-family: Merriweather;
+   font-size: 64px;
+   font-style: normal;
+   font-weight: 900;
+   line-height: 88px; 
+   letter-spacing: 7.04px;
+   padding: 80px 0px 0px 50px;
+   
+   
+}
+.ooo{color: rgba(255, 255, 255, 0.80);
+
+   font-family: Inter;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 30px;
+padding: 0px 0px 0px 50px;}
+
