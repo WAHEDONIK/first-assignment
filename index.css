@@ -304,4 +304,5 @@ padding-right: 90px;
 .oed{text-align: right;}
 .this{width: 1500px;
    height: 1116px;
-   flex-shrink: 0;}
+   flex-shrink: 0;
+position: relative;}
