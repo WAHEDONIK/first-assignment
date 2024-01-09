@@ -302,3 +302,6 @@ padding-right: 90px;
 }
 .phot{position: relative;;}
 .oed{text-align: right;}
+.this{width: 1500px;
+   height: 1116px;
+   flex-shrink: 0;}
