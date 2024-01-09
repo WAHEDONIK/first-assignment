@@ -257,5 +257,43 @@ padding-left: 500px;}
 
 
 
-                  .ere{justify-content: center;}
+                  .ore{color: #070211;
 
+                     text-align: center;
+                     font-family: Merriweather;
+                     font-size: 48px;
+                     font-style: normal;
+                     font-weight: 900;
+                     line-height: normal;
+                     text-transform: capitalize;}
+
+
+                     .pore{color: rgba(7, 2, 17, 0.60);
+
+                        text-align: center;
+                        font-family: Inter;
+                        font-size: 20px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 32px;}
+.foot{width: 1600px;
+   height: 609px;
+   flex-shrink: 0; background: #070211;
+}
+.last{color: #FFF;
+
+   font-family: Inter;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 40px;
+   padding-top: 100px;
+}
+.number{color: #FFF;
+
+   font-family: Inter;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 40px;
+text-align: right;}
