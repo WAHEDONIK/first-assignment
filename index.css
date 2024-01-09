@@ -295,8 +295,11 @@ top:3810px;}
 .tui{position: absolute;
 top: 4150px;
 }
-.nine{position: absolute;}
-
+.nine{position: absolute;
+}
+.ahin{position: absolute;
+   top: 3300px;
+left: 1030PX;}
 
 
 
@@ -361,7 +364,11 @@ top: 4150px;
 .foot{width: 1310px;
    height: 609px;
    flex-shrink: 0; background: #070211;
+  
 }
+
+
+
 .last{color: #FFF;
 
    font-family: Inter;
@@ -382,6 +389,7 @@ top: 4150px;
 text-align: right;
 padding-right: 90px;
 }
+.rat{position: ;}
 .phot{position: relative;;}
 .oed{text-align: right;}
 .this{width: 1500px;
