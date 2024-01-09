@@ -165,3 +165,61 @@ display: flex}
    align-items: center;
    flex-shrink: 0;}
 
+.pink{width: 1290px;
+   height: 500px;
+   flex-shrink: 0;
+}
+   .brother{ border-radius: 16px;
+      background: rgba(255, 0, 0, 0.05);
+      font-family: Inter;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 66px;
+      text-transform: capitalize;
+      padding: 200px 0px 0px 400px;
+      
+
+}.spun{color: #F00;;}
+
+
+.sister{
+   width: 165px;
+   height: 56px;
+   display: flex;
+   
+padding: 1px 32px 0px 400px;
+justify-content: center;
+background-color:rgba(255, 0, 0, 0.05);
+
+
+
+}
+.little{border-radius: 5px;
+   background: #F00;
+   
+}
+.what{color: #070211;
+   font-family: Inter;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: normal;
+padding-left: 500px;}
+   .holi{color: #F00;}
+   .sale{color: #070211;
+      font-family: Merriweather;
+      font-size: 72px;
+      font-style: normal;
+      font-weight: 900;
+      line-height: normal;
+   padding-left: 300px;}
+      .dolor{color: rgba(7, 2, 17, 0.60);
+
+        
+         font-family: Inter;
+         font-size: 20px;
+         font-style: normal;
+         font-weight: 500;
+         line-height: 32px;}
+
