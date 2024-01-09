@@ -288,6 +288,7 @@ padding-left: 500px;}
    font-weight: 500;
    line-height: 40px;
    padding-top: 100px;
+   padding-left: 100px;
 }
 .number{color: #FFF;
 
@@ -296,4 +297,8 @@ padding-left: 500px;}
    font-style: normal;
    font-weight: 500;
    line-height: 40px;
-text-align: right;}
+text-align: right;
+padding-right: 90px;
+}
+.phot{position: relative;;}
+.oed{text-align: right;}
