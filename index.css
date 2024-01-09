@@ -207,6 +207,60 @@ background-color:rgba(255, 0, 0, 0.05);
    font-size: 20px;
 
 }
+
+.we{width: 1600px;
+   height: 500px;
+display: flex;}
+.they{padding-left: 600px;
+padding-top: 100px;}
+.ji{padding-top: 100px;}
+.can{color: #F00;
+
+   text-align: center;
+   font-family: Inter;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 500px;
+   line-height: normal;}
+   .do{color: #070211;
+
+      font-family: Merriweather;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 900;
+      line-height: normal;
+      text-transform: capitalize;}
+      .it{color: rgba(7, 2, 17, 0.60);
+
+         font-family: Inter;
+         font-size: 20px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 32px;}
+
+
+
+.bab{color: #F00;
+
+            font-family: Inter;
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;}
+   .tab{color: rgba(7, 2, 17, 0.60);
+
+               font-family: Inter;
+               font-size: 20px;
+               font-style: normal;
+               font-weight: 400;
+               line-height: 32px;}
+
+.elli{position: absolute;
+left: 500px;
+border: #F00;}
+
+
+
 .what{color: #070211;
    font-family: Inter;
    font-size: 24px;
@@ -237,9 +291,9 @@ padding-left: 500px;}
    left: 900px;}
    .nai{position: absolute;
    left: 750px;
-top:3350px;}
+top:3810px;}
 .tui{position: absolute;
-top: 3700px;
+top: 4150px;
 }
 .nine{position: absolute;}
 
